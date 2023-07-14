@@ -26,3 +26,17 @@ await aiJudgement(
   .then((res) => console.log(res))
   .catch((err) => console.error(err));
 ```
+
+## Responses
+
+if chatGPT believes the string needs to be censored it will return its reasoning
+
+```
+'Censor, followed by reasoning'
+```
+
+otherwise respond with false
+
+```
+'false'
+```
