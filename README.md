@@ -4,8 +4,6 @@ Profanity filter, based on woke api chat gpt interpretations.
 
 PS - this package is ongoing testing playground.
 
-Coming soon - algorithm for non api profanity filter.
-
 ## Installation
 
 ```
