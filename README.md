@@ -1,6 +1,6 @@
 # ai-speak
 
-Profanity filter, based on woke api chat gpt interpretations.
+Profanity filter, based on openai api chat gpt interpretations.
 
 PS - this package is ongoing testing playground.
 
