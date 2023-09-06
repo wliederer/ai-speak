@@ -1,6 +1,6 @@
 {
   "name": "ai-speak",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "bad words check",
   "main": "lib/index.js",
   "scripts": {
